@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devlearn/static/css/main.d864f780.css",
+    "main.js": "/devlearn/static/js/main.2586c432.js",
+    "index.html": "/devlearn/index.html",
+    "main.d864f780.css.map": "/devlearn/static/css/main.d864f780.css.map",
+    "main.2586c432.js.map": "/devlearn/static/js/main.2586c432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d864f780.css",
+    "static/js/main.2586c432.js"
+  ]
+}
